@@ -3,8 +3,8 @@ main:
     url: /about/
   # - title: "Research"
   #   url: /research/
-  - title: "CV"
-    url: /assets/pdf/Sakshi_CV.pdf  
+ # - title: "CV"
+  #  url: /assets/pdf/Sakshi_CV.pdf  
   - title: "Publications"
     url: /publications/
   - title: "Teaching"
